@@ -1,0 +1,477 @@
+{
+  "vaultName": "PhD-Obsidian-Vault",
+  "lastExport": 1752508159576,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Theory/Attachements/Pasted image 20240318160849.jpg",
+    "Theory/Attachements/Pasted image 20250627114505.png",
+    "Theory/Attachements/Pasted image 20250627114540.png",
+    "Theory/Attachements/Pasted image 20250627114647.png",
+    "Theory/Attachements/Pasted image 20250627114826.png",
+    "Theory/Attachements/Pasted image 20250627114903.png",
+    "Theory/Attachements/Piezoelectric_Materials_Structure_Properties_and_A....pdf",
+    "Theory/Acoustic Definitions and Useful Equations.html",
+    "Theory/Acoustic Definitions and Useful Equations.md",
+    "Theory/Acoustic Radiation Force.md",
+    "Theory/ASM.md",
+    "Theory/Calculating the Gorkov Potential from a Pressure Field.md",
+    "Theory/Diffraction.md",
+    "Theory/Discrete Fourier Transform (DFT).md",
+    "Theory/Electronics.md",
+    "Theory/focal_length.bmp",
+    "Theory/Huygens Model.md",
+    "Theory/Kirchoff Theory.md",
+    "Theory/Lens Crash Course.md",
+    "Theory/PZT Theory.md",
+    "Theory/rasterGenerator.md",
+    "Theory/Stokes Drag.md",
+    "Theory/Theory.md",
+    "Theory/Tweezing Toolbox.md",
+    "Theory/Vortecies & Bessel Beams.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Theory/Attachements/Pasted image 20240318160849.jpg": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 311012,
+      "exportedPath": "Theory/Attachements/Pasted image 20240318160849.jpg",
+      "dependencies": []
+    },
+    "Theory/Attachements/Pasted image 20250627114505.png": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 294532,
+      "exportedPath": "Theory/Attachements/Pasted image 20250627114505.png",
+      "dependencies": []
+    },
+    "Theory/Attachements/Pasted image 20250627114540.png": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 301923,
+      "exportedPath": "Theory/Attachements/Pasted image 20250627114540.png",
+      "dependencies": []
+    },
+    "Theory/Attachements/Pasted image 20250627114647.png": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 145177,
+      "exportedPath": "Theory/Attachements/Pasted image 20250627114647.png",
+      "dependencies": []
+    },
+    "Theory/Attachements/Pasted image 20250627114826.png": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 60022,
+      "exportedPath": "Theory/Attachements/Pasted image 20250627114826.png",
+      "dependencies": []
+    },
+    "Theory/Attachements/Pasted image 20250627114903.png": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 296201,
+      "exportedPath": "Theory/Attachements/Pasted image 20250627114903.png",
+      "dependencies": []
+    },
+    "Theory/Attachements/Piezoelectric_Materials_Structure_Properties_and_A....pdf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 18670141,
+      "exportedPath": "Theory/Attachements/Piezoelectric_Materials_Structure_Properties_and_A....pdf",
+      "dependencies": []
+    },
+    "Theory/Acoustic Definitions and Useful Equations.html": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 127405,
+      "exportedPath": "Theory/Acoustic Definitions and Useful Equations.html",
+      "dependencies": []
+    },
+    "Theory/Acoustic Definitions and Useful Equations.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1465,
+      "exportedPath": "Theory/Acoustic Definitions and Useful Equations.html",
+      "dependencies": []
+    },
+    "Theory/Acoustic Radiation Force.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 2652,
+      "exportedPath": "Theory/Acoustic Radiation Force.html",
+      "dependencies": []
+    },
+    "Theory/ASM.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1465,
+      "exportedPath": "Theory/ASM.html",
+      "dependencies": []
+    },
+    "Theory/Calculating the Gorkov Potential from a Pressure Field.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 3227,
+      "exportedPath": "Theory/Calculating the Gorkov Potential from a Pressure Field.html",
+      "dependencies": []
+    },
+    "Theory/Diffraction.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 257,
+      "exportedPath": "Theory/Diffraction.html",
+      "dependencies": []
+    },
+    "Theory/Discrete Fourier Transform (DFT).md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1285,
+      "exportedPath": "Theory/Discrete Fourier Transform (DFT).html",
+      "dependencies": []
+    },
+    "Theory/Electronics.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 401,
+      "exportedPath": "Theory/Electronics.html",
+      "dependencies": []
+    },
+    "Theory/focal_length.bmp": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 469618,
+      "exportedPath": "Theory/focal_length.bmp",
+      "dependencies": []
+    },
+    "Theory/Huygens Model.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1824,
+      "exportedPath": "Theory/Huygens Model.html",
+      "dependencies": []
+    },
+    "Theory/Kirchoff Theory.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 78,
+      "exportedPath": "Theory/Kirchoff Theory.html",
+      "dependencies": []
+    },
+    "Theory/Lens Crash Course.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 139,
+      "exportedPath": "Theory/Lens Crash Course.html",
+      "dependencies": []
+    },
+    "Theory/PZT Theory.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1587,
+      "exportedPath": "Theory/PZT Theory.html",
+      "dependencies": []
+    },
+    "Theory/rasterGenerator.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 357,
+      "exportedPath": "Theory/rasterGenerator.html",
+      "dependencies": []
+    },
+    "Theory/Stokes Drag.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 90,
+      "exportedPath": "Theory/Stokes Drag.html",
+      "dependencies": []
+    },
+    "Theory/Theory.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 789,
+      "exportedPath": "Theory/Theory.html",
+      "dependencies": []
+    },
+    "Theory/Tweezing Toolbox.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 779,
+      "exportedPath": "Theory/Tweezing Toolbox.html",
+      "dependencies": []
+    },
+    "Theory/Vortecies & Bessel Beams.md": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 577,
+      "exportedPath": "Theory/Vortecies & Bessel Beams.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1752508159576,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
